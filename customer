@@ -1,0 +1,6 @@
+int customer
+float discount,total
+read customer ,name,phone number
+total=app-fee
+if total>100 then
+discount =total*50/100
